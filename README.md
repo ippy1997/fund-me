@@ -1,6 +1,6 @@
 # FundMe smart contract
 
-This project demonstrates a basic crowd funding smart contract use case. It comes with a FundMe contract and a priceConverter Library, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic crowd funding smart contract made with solidity and javaScript hardhat , use case. It comes with a FundMe contract and a priceConverter Library, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
